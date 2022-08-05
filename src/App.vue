@@ -1,5 +1,5 @@
 <template>
   <pre>
-    Test
+    <span>Test</span>
   </pre>
 </template>
