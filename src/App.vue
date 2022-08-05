@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <div>
-      Test
-    </div>
-  </div>
+  <pre>
+    Test
+  </pre>
 </template>
